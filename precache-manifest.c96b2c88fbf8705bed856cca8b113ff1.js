@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3da963d5d91b0170a135dc8c8bcdb69",
+    "revision": "4ad004ca8bc0e608c2c511d7a5059867",
     "url": "/react-earthquake/index.html"
   },
   {
-    "revision": "4ded68e7b3fb4497b7e8",
+    "revision": "bac87cc65e32172f7965",
     "url": "/react-earthquake/static/css/2.d6f34132.chunk.css"
   },
   {
-    "revision": "1c55630ef3344e58435d",
+    "revision": "87508221fe4d2e48b11f",
     "url": "/react-earthquake/static/css/main.1b9804dd.chunk.css"
   },
   {
-    "revision": "4ded68e7b3fb4497b7e8",
-    "url": "/react-earthquake/static/js/2.42ea5e77.chunk.js"
+    "revision": "bac87cc65e32172f7965",
+    "url": "/react-earthquake/static/js/2.0199fd64.chunk.js"
   },
   {
-    "revision": "1c55630ef3344e58435d",
-    "url": "/react-earthquake/static/js/main.8c3ebf1c.chunk.js"
+    "revision": "87508221fe4d2e48b11f",
+    "url": "/react-earthquake/static/js/main.a170b582.chunk.js"
   },
   {
     "revision": "d8ec8e5d15895cfca501",

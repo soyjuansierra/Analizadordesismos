@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-earthquake/static/css/main.1b9804dd.chunk.css",
-    "main.js": "/react-earthquake/static/js/main.8c3ebf1c.chunk.js",
-    "main.js.map": "/react-earthquake/static/js/main.8c3ebf1c.chunk.js.map",
+    "main.js": "/react-earthquake/static/js/main.a170b582.chunk.js",
+    "main.js.map": "/react-earthquake/static/js/main.a170b582.chunk.js.map",
     "runtime~main.js": "/react-earthquake/static/js/runtime~main.a0e5b94d.js",
     "runtime~main.js.map": "/react-earthquake/static/js/runtime~main.a0e5b94d.js.map",
     "static/css/2.d6f34132.chunk.css": "/react-earthquake/static/css/2.d6f34132.chunk.css",
-    "static/js/2.42ea5e77.chunk.js": "/react-earthquake/static/js/2.42ea5e77.chunk.js",
-    "static/js/2.42ea5e77.chunk.js.map": "/react-earthquake/static/js/2.42ea5e77.chunk.js.map",
+    "static/js/2.0199fd64.chunk.js": "/react-earthquake/static/js/2.0199fd64.chunk.js",
+    "static/js/2.0199fd64.chunk.js.map": "/react-earthquake/static/js/2.0199fd64.chunk.js.map",
     "index.html": "/react-earthquake/index.html",
-    "precache-manifest.d9a983ac7deb4c7ed3fae28b81ab43ef.js": "/react-earthquake/precache-manifest.d9a983ac7deb4c7ed3fae28b81ab43ef.js",
+    "precache-manifest.c96b2c88fbf8705bed856cca8b113ff1.js": "/react-earthquake/precache-manifest.c96b2c88fbf8705bed856cca8b113ff1.js",
     "service-worker.js": "/react-earthquake/service-worker.js",
     "static/css/2.d6f34132.chunk.css.map": "/react-earthquake/static/css/2.d6f34132.chunk.css.map",
     "static/css/main.1b9804dd.chunk.css.map": "/react-earthquake/static/css/main.1b9804dd.chunk.css.map"
