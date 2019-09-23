@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-earthquake/static/css/main.198f78c9.chunk.css",
-    "main.js": "/react-earthquake/static/js/main.fa44d655.chunk.js",
-    "main.js.map": "/react-earthquake/static/js/main.fa44d655.chunk.js.map",
+    "main.css": "/react-earthquake/static/css/main.a18c62b8.chunk.css",
+    "main.js": "/react-earthquake/static/js/main.c0a1eac2.chunk.js",
+    "main.js.map": "/react-earthquake/static/js/main.c0a1eac2.chunk.js.map",
     "runtime~main.js": "/react-earthquake/static/js/runtime~main.a0e5b94d.js",
     "runtime~main.js.map": "/react-earthquake/static/js/runtime~main.a0e5b94d.js.map",
-    "static/css/2.9bb77512.chunk.css": "/react-earthquake/static/css/2.9bb77512.chunk.css",
-    "static/js/2.38a90835.chunk.js": "/react-earthquake/static/js/2.38a90835.chunk.js",
-    "static/js/2.38a90835.chunk.js.map": "/react-earthquake/static/js/2.38a90835.chunk.js.map",
+    "static/css/2.b2a53bcd.chunk.css": "/react-earthquake/static/css/2.b2a53bcd.chunk.css",
+    "static/js/2.b38917ea.chunk.js": "/react-earthquake/static/js/2.b38917ea.chunk.js",
+    "static/js/2.b38917ea.chunk.js.map": "/react-earthquake/static/js/2.b38917ea.chunk.js.map",
     "index.html": "/react-earthquake/index.html",
-    "precache-manifest.c0967a4d651c29b1778c63b8c550cfe4.js": "/react-earthquake/precache-manifest.c0967a4d651c29b1778c63b8c550cfe4.js",
+    "precache-manifest.4a4c4c2d95fdd1c18c6ee2e989b3d9ae.js": "/react-earthquake/precache-manifest.4a4c4c2d95fdd1c18c6ee2e989b3d9ae.js",
     "service-worker.js": "/react-earthquake/service-worker.js",
-    "static/css/2.9bb77512.chunk.css.map": "/react-earthquake/static/css/2.9bb77512.chunk.css.map",
-    "static/css/main.198f78c9.chunk.css.map": "/react-earthquake/static/css/main.198f78c9.chunk.css.map",
+    "static/css/2.b2a53bcd.chunk.css.map": "/react-earthquake/static/css/2.b2a53bcd.chunk.css.map",
+    "static/css/main.a18c62b8.chunk.css.map": "/react-earthquake/static/css/main.a18c62b8.chunk.css.map",
     "static/media/font-awesome.min.css": "/react-earthquake/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
