@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14ad1af3cbbb0eb22fbf69f3164046bb",
+    "revision": "86f585102edad4b32c8f1b0811b6002d",
     "url": "/react-earthquake/index.html"
   },
   {
-    "revision": "17545af6d9571fff663a",
+    "revision": "d356c09c1e9d75f6d899",
     "url": "/react-earthquake/static/css/2.b2a53bcd.chunk.css"
   },
   {
-    "revision": "ee7f21fb96974611bebc",
-    "url": "/react-earthquake/static/css/main.a18c62b8.chunk.css"
+    "revision": "60f91c2003b2b13d2307",
+    "url": "/react-earthquake/static/css/main.cb63bc6d.chunk.css"
   },
   {
-    "revision": "17545af6d9571fff663a",
-    "url": "/react-earthquake/static/js/2.b38917ea.chunk.js"
+    "revision": "d356c09c1e9d75f6d899",
+    "url": "/react-earthquake/static/js/2.09c2d499.chunk.js"
   },
   {
-    "revision": "ee7f21fb96974611bebc",
-    "url": "/react-earthquake/static/js/main.c0a1eac2.chunk.js"
+    "revision": "60f91c2003b2b13d2307",
+    "url": "/react-earthquake/static/js/main.3d44390e.chunk.js"
   },
   {
     "revision": "d8ec8e5d15895cfca501",
