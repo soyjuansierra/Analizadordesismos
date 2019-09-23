@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-earthquake/static/css/main.cb63bc6d.chunk.css",
+    "main.css": "/react-earthquake/static/css/main.b85b43b6.chunk.css",
     "main.js": "/react-earthquake/static/js/main.3d44390e.chunk.js",
     "main.js.map": "/react-earthquake/static/js/main.3d44390e.chunk.js.map",
     "runtime~main.js": "/react-earthquake/static/js/runtime~main.a0e5b94d.js",
@@ -9,10 +9,10 @@
     "static/js/2.09c2d499.chunk.js": "/react-earthquake/static/js/2.09c2d499.chunk.js",
     "static/js/2.09c2d499.chunk.js.map": "/react-earthquake/static/js/2.09c2d499.chunk.js.map",
     "index.html": "/react-earthquake/index.html",
-    "precache-manifest.65ced78233650ad4db345baf0121700d.js": "/react-earthquake/precache-manifest.65ced78233650ad4db345baf0121700d.js",
+    "precache-manifest.a68526168948b34b11d02ddd6d5ac23e.js": "/react-earthquake/precache-manifest.a68526168948b34b11d02ddd6d5ac23e.js",
     "service-worker.js": "/react-earthquake/service-worker.js",
     "static/css/2.b2a53bcd.chunk.css.map": "/react-earthquake/static/css/2.b2a53bcd.chunk.css.map",
-    "static/css/main.cb63bc6d.chunk.css.map": "/react-earthquake/static/css/main.cb63bc6d.chunk.css.map",
+    "static/css/main.b85b43b6.chunk.css.map": "/react-earthquake/static/css/main.b85b43b6.chunk.css.map",
     "static/media/font-awesome.min.css": "/react-earthquake/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
