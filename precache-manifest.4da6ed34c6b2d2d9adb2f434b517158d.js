@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "766bf728ec87fd49d108a74475e485d3",
+    "revision": "a6d81680d98009ad1245f0101ea0266c",
     "url": "/react-earthquake/index.html"
   },
   {
