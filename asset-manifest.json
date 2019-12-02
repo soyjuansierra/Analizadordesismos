@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/react-earthquake/static/css/main.b85b43b6.chunk.css",
-    "main.js": "/react-earthquake/static/js/main.e6aa86c3.chunk.js",
-    "main.js.map": "/react-earthquake/static/js/main.e6aa86c3.chunk.js.map",
-    "runtime~main.js": "/react-earthquake/static/js/runtime~main.a0e5b94d.js",
-    "runtime~main.js.map": "/react-earthquake/static/js/runtime~main.a0e5b94d.js.map",
-    "static/css/2.b2a53bcd.chunk.css": "/react-earthquake/static/css/2.b2a53bcd.chunk.css",
-    "static/js/2.09c2d499.chunk.js": "/react-earthquake/static/js/2.09c2d499.chunk.js",
-    "static/js/2.09c2d499.chunk.js.map": "/react-earthquake/static/js/2.09c2d499.chunk.js.map",
+    "main.css": "/react-earthquake/static/css/main.cf95ffa8.chunk.css",
+    "main.js": "/react-earthquake/static/js/main.87ff6516.chunk.js",
+    "main.js.map": "/react-earthquake/static/js/main.87ff6516.chunk.js.map",
+    "runtime-main.js": "/react-earthquake/static/js/runtime-main.56c68d03.js",
+    "runtime-main.js.map": "/react-earthquake/static/js/runtime-main.56c68d03.js.map",
+    "static/css/2.ff2c5aab.chunk.css": "/react-earthquake/static/css/2.ff2c5aab.chunk.css",
+    "static/js/2.30100ae1.chunk.js": "/react-earthquake/static/js/2.30100ae1.chunk.js",
+    "static/js/2.30100ae1.chunk.js.map": "/react-earthquake/static/js/2.30100ae1.chunk.js.map",
     "index.html": "/react-earthquake/index.html",
-    "precache-manifest.4da6ed34c6b2d2d9adb2f434b517158d.js": "/react-earthquake/precache-manifest.4da6ed34c6b2d2d9adb2f434b517158d.js",
+    "precache-manifest.76b2459e4b269182570286930182c35b.js": "/react-earthquake/precache-manifest.76b2459e4b269182570286930182c35b.js",
     "service-worker.js": "/react-earthquake/service-worker.js",
-    "static/css/2.b2a53bcd.chunk.css.map": "/react-earthquake/static/css/2.b2a53bcd.chunk.css.map",
-    "static/css/main.b85b43b6.chunk.css.map": "/react-earthquake/static/css/main.b85b43b6.chunk.css.map",
+    "static/css/2.ff2c5aab.chunk.css.map": "/react-earthquake/static/css/2.ff2c5aab.chunk.css.map",
+    "static/css/main.cf95ffa8.chunk.css.map": "/react-earthquake/static/css/main.cf95ffa8.chunk.css.map",
     "static/media/font-awesome.min.css": "/react-earthquake/static/media/fontawesome-webfont.fee66e71.woff"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56c68d03.js",
+    "static/css/2.ff2c5aab.chunk.css",
+    "static/js/2.30100ae1.chunk.js",
+    "static/css/main.cf95ffa8.chunk.css",
+    "static/js/main.87ff6516.chunk.js"
+  ]
 }
