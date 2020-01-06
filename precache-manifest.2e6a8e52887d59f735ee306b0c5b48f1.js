@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1dea37f7aafcfc5ca064f000f0ae6d3f",
+    "revision": "2e6c22ef4a4d9b08ac796aa5fc4404e9",
     "url": "/react-earthquake/index.html"
   },
   {
-    "revision": "308e1503cd064c657769",
+    "revision": "fedfc11c697edf7ce2d9",
     "url": "/react-earthquake/static/css/2.ff2c5aab.chunk.css"
   },
   {
-    "revision": "ef24a9430098671a3974",
-    "url": "/react-earthquake/static/css/main.cf95ffa8.chunk.css"
+    "revision": "4e39a076dcb0d7c8a2df",
+    "url": "/react-earthquake/static/css/main.e94df5e9.chunk.css"
   },
   {
-    "revision": "308e1503cd064c657769",
-    "url": "/react-earthquake/static/js/2.30100ae1.chunk.js"
+    "revision": "fedfc11c697edf7ce2d9",
+    "url": "/react-earthquake/static/js/2.8fef0072.chunk.js"
   },
   {
-    "revision": "ef24a9430098671a3974",
-    "url": "/react-earthquake/static/js/main.87ff6516.chunk.js"
+    "revision": "774a1c567511c11b28777a69a59a4436",
+    "url": "/react-earthquake/static/js/2.8fef0072.chunk.js.LICENSE"
   },
   {
-    "revision": "141543b96ed48f7e3807",
-    "url": "/react-earthquake/static/js/runtime-main.56c68d03.js"
+    "revision": "4e39a076dcb0d7c8a2df",
+    "url": "/react-earthquake/static/js/main.806e9feb.chunk.js"
+  },
+  {
+    "revision": "d07fca6aad76d0d9df16",
+    "url": "/react-earthquake/static/js/runtime-main.58e1ccd7.js"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
