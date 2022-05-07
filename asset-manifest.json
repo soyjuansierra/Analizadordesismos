@@ -1,26 +1,18 @@
 {
   "files": {
-    "main.css": "/react-earthquake/static/css/main.e94df5e9.chunk.css",
-    "main.js": "/react-earthquake/static/js/main.806e9feb.chunk.js",
-    "main.js.map": "/react-earthquake/static/js/main.806e9feb.chunk.js.map",
-    "runtime-main.js": "/react-earthquake/static/js/runtime-main.58e1ccd7.js",
-    "runtime-main.js.map": "/react-earthquake/static/js/runtime-main.58e1ccd7.js.map",
-    "static/css/2.ff2c5aab.chunk.css": "/react-earthquake/static/css/2.ff2c5aab.chunk.css",
-    "static/js/2.8fef0072.chunk.js": "/react-earthquake/static/js/2.8fef0072.chunk.js",
-    "static/js/2.8fef0072.chunk.js.map": "/react-earthquake/static/js/2.8fef0072.chunk.js.map",
+    "main.css": "/react-earthquake/static/css/main.9b8d1bb3.css",
+    "main.js": "/react-earthquake/static/js/main.c5754ff0.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-earthquake/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/react-earthquake/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-earthquake/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-earthquake/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-earthquake/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/react-earthquake/index.html",
-    "precache-manifest.2e6a8e52887d59f735ee306b0c5b48f1.js": "/react-earthquake/precache-manifest.2e6a8e52887d59f735ee306b0c5b48f1.js",
-    "service-worker.js": "/react-earthquake/service-worker.js",
-    "static/css/2.ff2c5aab.chunk.css.map": "/react-earthquake/static/css/2.ff2c5aab.chunk.css.map",
-    "static/css/main.e94df5e9.chunk.css.map": "/react-earthquake/static/css/main.e94df5e9.chunk.css.map",
-    "static/js/2.8fef0072.chunk.js.LICENSE": "/react-earthquake/static/js/2.8fef0072.chunk.js.LICENSE",
-    "static/media/font-awesome.min.css": "/react-earthquake/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.9b8d1bb3.css.map": "/react-earthquake/static/css/main.9b8d1bb3.css.map",
+    "main.c5754ff0.js.map": "/react-earthquake/static/js/main.c5754ff0.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.58e1ccd7.js",
-    "static/css/2.ff2c5aab.chunk.css",
-    "static/js/2.8fef0072.chunk.js",
-    "static/css/main.e94df5e9.chunk.css",
-    "static/js/main.806e9feb.chunk.js"
+    "static/css/main.9b8d1bb3.css",
+    "static/js/main.c5754ff0.js"
   ]
 }
